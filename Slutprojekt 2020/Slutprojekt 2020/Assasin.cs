@@ -9,6 +9,7 @@ namespace Slutprojekt_2020
     class Assasin : Baskampe
     {
         float critt = 0.5f;
-        int champhp = * 0.5;
+
+        private float assasinHp = champHp * 0.5f;
     }
 }

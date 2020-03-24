@@ -10,6 +10,9 @@ namespace Slutprojekt_2020
     {
         static void Main(string[] args)
         {
+
+
+
         }
     }
 }
